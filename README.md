@@ -14,7 +14,7 @@
 ```
 npm install @notionhq/client
 ```
-
+Build -> .github/workflows/ci.yml
 ## Usage
 
 > Use Notion's [Getting Started Guide](https://developers.notion.com/docs/getting-started) to get set up to use Notion's API.
